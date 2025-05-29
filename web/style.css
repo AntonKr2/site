@@ -74,8 +74,8 @@ a {
     margin-left: 50px;
     padding-top: 10px;
 }
-@media (max-width: 768px) { /* Применяется на экранах до 768px */
+@media (max-width: 768px) { 
     .link {
-        flex-direction: column; /* Элементы располагаются в столбец */
+        flex-direction: column; 
     }
     }
